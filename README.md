@@ -1,5 +1,7 @@
 # HRM system
 
+![HRM cover](docs/cover.png)
+
 ASP.NET Core 8 (MVC host + Web API, EF Core, SQL Server) with an Angular 18 (TypeScript) client.
 
 ```
